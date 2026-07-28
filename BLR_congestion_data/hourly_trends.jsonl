@@ -1,0 +1,903 @@
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 0, "congestion_length_km": 0.8126315789473685}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 1, "congestion_length_km": 0.4815384615384615}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 3, "congestion_length_km": 0.252}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 5, "congestion_length_km": 0.3}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 6, "congestion_length_km": 0.329}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 7, "congestion_length_km": 1.2686666666666668}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 8, "congestion_length_km": 0.5413846153846154}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 9, "congestion_length_km": 1.6354000000000002}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 10, "congestion_length_km": 1.911625}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 11, "congestion_length_km": 1.4656}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 12, "congestion_length_km": 0.876125}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 13, "congestion_length_km": 0.7908333333333334}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 14, "congestion_length_km": 1.044}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 15, "congestion_length_km": 0.5014285714285714}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 16, "congestion_length_km": 1.1395555555555557}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 17, "congestion_length_km": 1.478090909090909}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 18, "congestion_length_km": 2.58175}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 19, "congestion_length_km": 3.1464000000000003}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 20, "congestion_length_km": 1.8582962962962963}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 21, "congestion_length_km": 1.6557333333333333}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 22, "congestion_length_km": 1.0404285714285713}
+{"corridor": "Airport New South Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.7266153846153847}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 0, "congestion_length_km": 0.6893333333333334}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.7303333333333334}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 2, "congestion_length_km": 0.27}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 3, "congestion_length_km": 0.62}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 4, "congestion_length_km": 0.61}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 5, "congestion_length_km": 0.484}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.9673333333333334}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.531}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 8, "congestion_length_km": 0.5354736842105263}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 9, "congestion_length_km": 2.1738000000000004}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 10, "congestion_length_km": 2.2262}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 11, "congestion_length_km": 1.88936}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 12, "congestion_length_km": 1.4054}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 13, "congestion_length_km": 1.3418181818181818}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 14, "congestion_length_km": 1.009}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 15, "congestion_length_km": 1.0848}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 16, "congestion_length_km": 1.0683478260869566}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 17, "congestion_length_km": 2.1406666666666667}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 18, "congestion_length_km": 2.3905384615384615}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 19, "congestion_length_km": 2.99344}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 20, "congestion_length_km": 1.9033636363636364}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 21, "congestion_length_km": 1.2024615384615385}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 22, "congestion_length_km": 0.481}
+{"corridor": "Airport New South Road", "month": "2026-06", "hour": 23, "congestion_length_km": 0.5824}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 5, "congestion_length_km": 0.26}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.734}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 8, "congestion_length_km": 0.8405714285714285}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 9, "congestion_length_km": 1.4062222222222223}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 10, "congestion_length_km": 0.9610434782608697}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 11, "congestion_length_km": 0.930695652173913}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 12, "congestion_length_km": 1.0705555555555557}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 13, "congestion_length_km": 0.9626153846153847}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 14, "congestion_length_km": 0.7625}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 15, "congestion_length_km": 0.6154545454545455}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 16, "congestion_length_km": 0.828421052631579}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 17, "congestion_length_km": 1.5724285714285713}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 18, "congestion_length_km": 2.484714285714286}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 19, "congestion_length_km": 3.7786451612903225}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 20, "congestion_length_km": 2.091}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 21, "congestion_length_km": 1.732}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 22, "congestion_length_km": 1.28325}
+{"corridor": "Bannerghata Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.38880000000000003}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 1, "congestion_length_km": 1.198}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.412}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 8, "congestion_length_km": 1.5827368421052632}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 9, "congestion_length_km": 1.1832631578947368}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 10, "congestion_length_km": 0.8770476190476191}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 11, "congestion_length_km": 0.8443999999999999}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 12, "congestion_length_km": 1.6291666666666667}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 13, "congestion_length_km": 1.6552727272727272}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 14, "congestion_length_km": 1.3558}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 15, "congestion_length_km": 1.0273333333333332}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 16, "congestion_length_km": 1.2662142857142857}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 17, "congestion_length_km": 2.1020689655172413}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 18, "congestion_length_km": 1.8407586206896551}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 19, "congestion_length_km": 3.1285517241379313}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 20, "congestion_length_km": 1.2875862068965516}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 21, "congestion_length_km": 0.48033333333333333}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 22, "congestion_length_km": 0.6221818181818182}
+{"corridor": "Bannerghata Road", "month": "2026-06", "hour": 23, "congestion_length_km": 0.53075}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 0, "congestion_length_km": 0.6116}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 1, "congestion_length_km": 0.667}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 4, "congestion_length_km": 0.31}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 5, "congestion_length_km": 0.6393333333333334}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 6, "congestion_length_km": 0.895}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 7, "congestion_length_km": 0.4693333333333333}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 8, "congestion_length_km": 0.5935}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 9, "congestion_length_km": 2.0532727272727276}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 10, "congestion_length_km": 2.992962962962963}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 11, "congestion_length_km": 2.7777241379310342}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 12, "congestion_length_km": 3.0576774193548384}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 13, "congestion_length_km": 2.779935483870968}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 14, "congestion_length_km": 2.3298666666666668}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 15, "congestion_length_km": 2.3364137931034485}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 16, "congestion_length_km": 3.103655172413793}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 17, "congestion_length_km": 5.158387096774193}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 18, "congestion_length_km": 8.38541935483871}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 19, "congestion_length_km": 8.768645161290323}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 20, "congestion_length_km": 5.115870967741936}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 21, "congestion_length_km": 1.9888571428571429}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 22, "congestion_length_km": 0.8513076923076922}
+{"corridor": "Bellary Road 1", "month": "2026-05", "hour": 23, "congestion_length_km": 0.894625}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 0, "congestion_length_km": 0.9233333333333333}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 1, "congestion_length_km": 0.803}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 2, "congestion_length_km": 1.88}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 4, "congestion_length_km": 0.494}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 5, "congestion_length_km": 0.396}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 6, "congestion_length_km": 0.895}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 7, "congestion_length_km": 0.91}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 8, "congestion_length_km": 0.8017333333333333}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 9, "congestion_length_km": 3.266608695652174}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 10, "congestion_length_km": 4.713586206896552}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 11, "congestion_length_km": 5.402620689655172}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 12, "congestion_length_km": 5.2012857142857145}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 13, "congestion_length_km": 4.233241379310345}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 14, "congestion_length_km": 4.6183571428571435}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 15, "congestion_length_km": 4.439333333333333}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 16, "congestion_length_km": 5.248266666666667}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 17, "congestion_length_km": 7.804896551724138}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 18, "congestion_length_km": 9.974642857142857}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 19, "congestion_length_km": 8.60944827586207}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 20, "congestion_length_km": 5.623714285714286}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 21, "congestion_length_km": 2.1744827586206896}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 22, "congestion_length_km": 1.3814615384615385}
+{"corridor": "Bellary Road 1", "month": "2026-06", "hour": 23, "congestion_length_km": 1.0869000000000002}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 2, "congestion_length_km": 3.848}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 3, "congestion_length_km": 0.504}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 5, "congestion_length_km": 0.252}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 6, "congestion_length_km": 0.823}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 7, "congestion_length_km": 0.3226666666666667}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 8, "congestion_length_km": 1.532}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 9, "congestion_length_km": 1.4036363636363638}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 10, "congestion_length_km": 1.4785}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 11, "congestion_length_km": 0.9549473684210527}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 12, "congestion_length_km": 0.8751111111111111}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 13, "congestion_length_km": 0.7728571428571429}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 14, "congestion_length_km": 1.244}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 15, "congestion_length_km": 1.207625}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 16, "congestion_length_km": 1.66048}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 17, "congestion_length_km": 2.6493793103448273}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 18, "congestion_length_km": 2.9834666666666667}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 19, "congestion_length_km": 3.2295172413793103}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 20, "congestion_length_km": 1.3424545454545456}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 21, "congestion_length_km": 0.9683999999999999}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 22, "congestion_length_km": 0.9127142857142857}
+{"corridor": "Bellary Road 2", "month": "2026-05", "hour": 23, "congestion_length_km": 0.4493333333333333}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 0, "congestion_length_km": 2.1968}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 1, "congestion_length_km": 0.6906666666666667}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 3, "congestion_length_km": 0.368}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 4, "congestion_length_km": 0.28}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 6, "congestion_length_km": 0.29}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 7, "congestion_length_km": 0.7948}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 8, "congestion_length_km": 1.770857142857143}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 9, "congestion_length_km": 3.654266666666667}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 10, "congestion_length_km": 3.3244000000000002}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 11, "congestion_length_km": 1.9562857142857142}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 12, "congestion_length_km": 1.6584545454545454}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 13, "congestion_length_km": 1.9154444444444443}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 14, "congestion_length_km": 1.8901428571428571}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 15, "congestion_length_km": 1.3816923076923076}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 16, "congestion_length_km": 2.84}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 17, "congestion_length_km": 3.098888888888889}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 18, "congestion_length_km": 4.355724137931034}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 19, "congestion_length_km": 4.172733333333333}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 20, "congestion_length_km": 2.1112380952380954}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 21, "congestion_length_km": 0.8607272727272728}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 22, "congestion_length_km": 1.7006153846153844}
+{"corridor": "Bellary Road 2", "month": "2026-06", "hour": 23, "congestion_length_km": 1.766}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 7, "congestion_length_km": 0.29}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 9, "congestion_length_km": 0.5706666666666667}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 10, "congestion_length_km": 0.4413333333333333}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 11, "congestion_length_km": 0.556}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 12, "congestion_length_km": 0.348}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 13, "congestion_length_km": 0.4126666666666667}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 14, "congestion_length_km": 0.5193333333333334}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 15, "congestion_length_km": 0.5376000000000001}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 16, "congestion_length_km": 1.243}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 17, "congestion_length_km": 1.1743529411764706}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 18, "congestion_length_km": 1.0896}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 19, "congestion_length_km": 0.7854736842105263}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 20, "congestion_length_km": 0.6454285714285715}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 21, "congestion_length_km": 0.2713333333333333}
+{"corridor": "CBD 1", "month": "2026-05", "hour": 23, "congestion_length_km": 0.3}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 10, "congestion_length_km": 0.491}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 11, "congestion_length_km": 0.28}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 12, "congestion_length_km": 0.3}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 13, "congestion_length_km": 0.59}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 14, "congestion_length_km": 0.3336}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 15, "congestion_length_km": 0.438}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 16, "congestion_length_km": 0.6865}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 17, "congestion_length_km": 0.544}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 18, "congestion_length_km": 0.4085}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 19, "congestion_length_km": 0.638}
+{"corridor": "CBD 1", "month": "2026-06", "hour": 20, "congestion_length_km": 0.275}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 9, "congestion_length_km": 0.44885714285714284}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 10, "congestion_length_km": 0.6601538461538462}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 11, "congestion_length_km": 0.47964705882352937}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 12, "congestion_length_km": 0.7029}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 13, "congestion_length_km": 0.7988}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 14, "congestion_length_km": 0.824}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 15, "congestion_length_km": 0.6821818181818181}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 16, "congestion_length_km": 1.0871333333333335}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 17, "congestion_length_km": 1.2480714285714287}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 18, "congestion_length_km": 1.5586153846153845}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 19, "congestion_length_km": 1.20904}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 20, "congestion_length_km": 1.5598571428571428}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 21, "congestion_length_km": 0.85425}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 22, "congestion_length_km": 0.5005}
+{"corridor": "CBD 2", "month": "2026-05", "hour": 23, "congestion_length_km": 0.29}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 8, "congestion_length_km": 0.4972}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 9, "congestion_length_km": 0.39266666666666666}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 10, "congestion_length_km": 0.6877777777777778}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 11, "congestion_length_km": 0.8249}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 12, "congestion_length_km": 0.6426000000000001}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 13, "congestion_length_km": 1.086421052631579}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 14, "congestion_length_km": 0.8261818181818181}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 15, "congestion_length_km": 1.1222142857142858}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 16, "congestion_length_km": 1.251655172413793}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 17, "congestion_length_km": 1.8908888888888888}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 18, "congestion_length_km": 1.5963703703703704}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 19, "congestion_length_km": 0.9234}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 20, "congestion_length_km": 0.9672727272727273}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 21, "congestion_length_km": 0.332}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 22, "congestion_length_km": 0.3026666666666667}
+{"corridor": "CBD 2", "month": "2026-06", "hour": 23, "congestion_length_km": 0.3}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 0, "congestion_length_km": 0.93}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 1, "congestion_length_km": 0.5033333333333333}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 6, "congestion_length_km": 0.633}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.8392307692307693}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 8, "congestion_length_km": 0.8826153846153847}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 9, "congestion_length_km": 0.8890769230769231}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 10, "congestion_length_km": 1.2538666666666665}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 11, "congestion_length_km": 1.1123809523809522}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 12, "congestion_length_km": 1.635391304347826}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 13, "congestion_length_km": 1.313047619047619}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 14, "congestion_length_km": 1.1236}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 15, "congestion_length_km": 1.11}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 16, "congestion_length_km": 1.946923076923077}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 17, "congestion_length_km": 2.758230769230769}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 18, "congestion_length_km": 2.6817333333333333}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 19, "congestion_length_km": 2.675310344827586}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 20, "congestion_length_km": 1.7926666666666669}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 21, "congestion_length_km": 0.5883333333333334}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 22, "congestion_length_km": 0.77025}
+{"corridor": "Hennur Main Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.572}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 0, "congestion_length_km": 0.6026153846153847}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.446}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.285}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 7, "congestion_length_km": 1.0}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 8, "congestion_length_km": 1.75}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 9, "congestion_length_km": 1.1366666666666667}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 10, "congestion_length_km": 1.2262}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 11, "congestion_length_km": 1.06016}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 12, "congestion_length_km": 1.0054285714285713}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 13, "congestion_length_km": 0.7135}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 14, "congestion_length_km": 0.7217142857142856}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 15, "congestion_length_km": 1.704357142857143}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 16, "congestion_length_km": 1.978}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 17, "congestion_length_km": 3.50392}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 18, "congestion_length_km": 3.4808000000000003}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 19, "congestion_length_km": 2.7786206896551726}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 20, "congestion_length_km": 1.6801818181818182}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 21, "congestion_length_km": 1.0406666666666669}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 22, "congestion_length_km": 0.485}
+{"corridor": "Hennur Main Road", "month": "2026-06", "hour": 23, "congestion_length_km": 0.9307692307692307}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 0, "congestion_length_km": 1.47304}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 1, "congestion_length_km": 1.1465999999999998}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 2, "congestion_length_km": 0.635}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 3, "congestion_length_km": 0.26}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 4, "congestion_length_km": 0.358}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 5, "congestion_length_km": 0.45971428571428574}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 6, "congestion_length_km": 1.1473333333333333}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.559}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 8, "congestion_length_km": 2.2129565217391307}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 9, "congestion_length_km": 3.6193333333333335}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 10, "congestion_length_km": 4.174074074074074}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 11, "congestion_length_km": 3.8006206896551724}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 12, "congestion_length_km": 3.0548387096774197}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 13, "congestion_length_km": 2.4520689655172414}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 14, "congestion_length_km": 1.8379310344827586}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 15, "congestion_length_km": 1.8843703703703705}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 16, "congestion_length_km": 2.7211612903225806}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 17, "congestion_length_km": 4.967733333333333}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 18, "congestion_length_km": 6.937870967741936}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 19, "congestion_length_km": 9.454645161290323}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 20, "congestion_length_km": 6.977032258064516}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 21, "congestion_length_km": 4.769032258064516}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 22, "congestion_length_km": 4.876774193548387}
+{"corridor": "Hosur Road", "month": "2026-05", "hour": 23, "congestion_length_km": 4.160451612903225}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 0, "congestion_length_km": 1.154952380952381}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 1, "congestion_length_km": 1.3377142857142859}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 2, "congestion_length_km": 0.6076}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 3, "congestion_length_km": 0.388}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 4, "congestion_length_km": 0.32}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 5, "congestion_length_km": 0.3226666666666667}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.3595}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.647578947368421}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 8, "congestion_length_km": 2.4905}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 9, "congestion_length_km": 5.574666666666667}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 10, "congestion_length_km": 5.119703703703704}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 11, "congestion_length_km": 4.624689655172414}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 12, "congestion_length_km": 4.053214285714286}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 13, "congestion_length_km": 3.677103448275862}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 14, "congestion_length_km": 2.417703703703704}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 15, "congestion_length_km": 2.5332857142857144}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 16, "congestion_length_km": 4.854733333333334}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 17, "congestion_length_km": 6.9222758620689655}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 18, "congestion_length_km": 8.084344827586207}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 19, "congestion_length_km": 8.961799999999998}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 20, "congestion_length_km": 6.4175862068965515}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 21, "congestion_length_km": 4.412413793103449}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 22, "congestion_length_km": 4.505241379310345}
+{"corridor": "Hosur Road", "month": "2026-06", "hour": 23, "congestion_length_km": 3.415448275862069}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 0, "congestion_length_km": 0.3985}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 1, "congestion_length_km": 0.348}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 8, "congestion_length_km": 0.6086666666666666}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 9, "congestion_length_km": 1.8828888888888888}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 10, "congestion_length_km": 2.5431999999999997}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 11, "congestion_length_km": 1.7813076923076925}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 12, "congestion_length_km": 1.633225806451613}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 13, "congestion_length_km": 1.7333548387096773}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 14, "congestion_length_km": 1.9058709677419354}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 15, "congestion_length_km": 2.0469032258064517}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 16, "congestion_length_km": 2.974064516129032}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 17, "congestion_length_km": 3.3320645161290323}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 18, "congestion_length_km": 4.512838709677419}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 19, "congestion_length_km": 4.583935483870968}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 20, "congestion_length_km": 4.246709677419355}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 21, "congestion_length_km": 3.3994285714285715}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 22, "congestion_length_km": 2.0941052631578945}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-05", "hour": 23, "congestion_length_km": 1.058142857142857}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 0, "congestion_length_km": 0.43527272727272726}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 1, "congestion_length_km": 0.30319999999999997}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 2, "congestion_length_km": 0.26}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 3, "congestion_length_km": 0.26}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 7, "congestion_length_km": 0.264}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 8, "congestion_length_km": 1.1054000000000002}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 9, "congestion_length_km": 3.6871428571428573}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 10, "congestion_length_km": 4.361090909090909}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 11, "congestion_length_km": 2.431185185185185}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 12, "congestion_length_km": 2.103925925925926}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 13, "congestion_length_km": 2.407862068965517}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 14, "congestion_length_km": 2.257655172413793}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 15, "congestion_length_km": 2.9282}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 16, "congestion_length_km": 4.116933333333334}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 17, "congestion_length_km": 5.063931034482759}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 18, "congestion_length_km": 5.645310344827586}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 19, "congestion_length_km": 4.497866666666667}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 20, "congestion_length_km": 3.753862068965517}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 21, "congestion_length_km": 2.6041428571428575}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 22, "congestion_length_km": 1.5684}
+{"corridor": "IRR(Thanisandra road)", "month": "2026-06", "hour": 23, "congestion_length_km": 0.9955714285714286}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 8, "congestion_length_km": 0.27}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 9, "congestion_length_km": 0.45327272727272727}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 10, "congestion_length_km": 0.5396363636363636}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 11, "congestion_length_km": 0.5263333333333333}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 12, "congestion_length_km": 0.677}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 13, "congestion_length_km": 0.7845333333333333}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 14, "congestion_length_km": 0.37}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 15, "congestion_length_km": 0.49377777777777776}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 16, "congestion_length_km": 0.6605714285714286}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 17, "congestion_length_km": 1.0223333333333333}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 18, "congestion_length_km": 1.0161666666666667}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 19, "congestion_length_km": 1.8346666666666667}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 20, "congestion_length_km": 1.4932173913043478}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 21, "congestion_length_km": 1.1508571428571428}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 22, "congestion_length_km": 0.3066666666666667}
+{"corridor": "Magadi Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.918}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 8, "congestion_length_km": 0.3745}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 9, "congestion_length_km": 0.5631111111111111}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 10, "congestion_length_km": 0.5341111111111111}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 11, "congestion_length_km": 0.6294285714285714}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 12, "congestion_length_km": 0.72575}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 13, "congestion_length_km": 1.27225}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 14, "congestion_length_km": 0.7846000000000001}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 15, "congestion_length_km": 0.7645}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 16, "congestion_length_km": 0.9395238095238095}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 17, "congestion_length_km": 0.9813636363636363}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 18, "congestion_length_km": 1.3025217391304347}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 19, "congestion_length_km": 1.6269285714285713}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 20, "congestion_length_km": 1.2716842105263158}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 21, "congestion_length_km": 0.5071428571428571}
+{"corridor": "Magadi Road", "month": "2026-06", "hour": 22, "congestion_length_km": 0.252}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 0, "congestion_length_km": 0.6865}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 1, "congestion_length_km": 1.1483333333333332}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 2, "congestion_length_km": 0.7816000000000001}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 3, "congestion_length_km": 0.8718333333333333}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 4, "congestion_length_km": 0.9276666666666666}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 5, "congestion_length_km": 0.8254285714285714}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 6, "congestion_length_km": 1.32475}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 7, "congestion_length_km": 1.6393333333333333}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 8, "congestion_length_km": 1.91}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 9, "congestion_length_km": 3.1269333333333336}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 10, "congestion_length_km": 3.9710666666666667}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 11, "congestion_length_km": 4.353806451612903}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 12, "congestion_length_km": 5.364967741935484}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 13, "congestion_length_km": 4.902709677419355}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 14, "congestion_length_km": 3.6146451612903223}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 15, "congestion_length_km": 3.8378666666666668}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 16, "congestion_length_km": 4.837096774193548}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 17, "congestion_length_km": 5.031806451612903}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 18, "congestion_length_km": 6.526258064516129}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 19, "congestion_length_km": 8.275354838709678}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 20, "congestion_length_km": 4.5054}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 21, "congestion_length_km": 2.575133333333333}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 22, "congestion_length_km": 1.9710714285714286}
+{"corridor": "Mysore Road", "month": "2026-05", "hour": 23, "congestion_length_km": 1.4465185185185185}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 0, "congestion_length_km": 0.7156}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.7863333333333333}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 2, "congestion_length_km": 1.021}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 3, "congestion_length_km": 0.51175}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 4, "congestion_length_km": 0.7626666666666666}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 5, "congestion_length_km": 0.5724}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.6633333333333333}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.8688235294117648}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 8, "congestion_length_km": 2.5336153846153846}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 9, "congestion_length_km": 2.698642857142857}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 10, "congestion_length_km": 4.547785714285714}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 11, "congestion_length_km": 5.212413793103448}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 12, "congestion_length_km": 5.942142857142857}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 13, "congestion_length_km": 5.178206896551724}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 14, "congestion_length_km": 4.671724137931035}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 15, "congestion_length_km": 7.180733333333333}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 16, "congestion_length_km": 5.983333333333333}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 17, "congestion_length_km": 6.239310344827586}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 18, "congestion_length_km": 7.541310344827586}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 19, "congestion_length_km": 5.738666666666667}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 20, "congestion_length_km": 3.3811428571428572}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 21, "congestion_length_km": 2.2518518518518515}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 22, "congestion_length_km": 1.9036923076923076}
+{"corridor": "Mysore Road", "month": "2026-06", "hour": 23, "congestion_length_km": 1.099125}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 0, "congestion_length_km": 2.042153846153846}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 1, "congestion_length_km": 1.4429}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 2, "congestion_length_km": 0.8354666666666667}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 3, "congestion_length_km": 0.7958333333333334}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 4, "congestion_length_km": 0.8287058823529412}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 5, "congestion_length_km": 1.3742307692307694}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 6, "congestion_length_km": 2.477032258064516}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 7, "congestion_length_km": 3.9541290322580642}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 8, "congestion_length_km": 12.015870967741936}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 9, "congestion_length_km": 29.126967741935484}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 10, "congestion_length_km": 34.89567741935484}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 11, "congestion_length_km": 31.903935483870967}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 12, "congestion_length_km": 31.680387096774194}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 13, "congestion_length_km": 29.647032258064517}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 14, "congestion_length_km": 20.82109677419355}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 15, "congestion_length_km": 19.499290322580645}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 16, "congestion_length_km": 32.41916129032258}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 17, "congestion_length_km": 54.04187096774193}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 18, "congestion_length_km": 83.17735483870968}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 19, "congestion_length_km": 106.0}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 20, "congestion_length_km": 63.66567741935484}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 21, "congestion_length_km": 26.425806451612903}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 22, "congestion_length_km": 15.614838709677418}
+{"corridor": "Non-Corridor", "month": "2026-05", "hour": 23, "congestion_length_km": 5.314967741935484}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 0, "congestion_length_km": 1.8443636363636362}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 1, "congestion_length_km": 1.119875}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 2, "congestion_length_km": 0.84175}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 3, "congestion_length_km": 0.5744}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 4, "congestion_length_km": 0.44722222222222224}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 5, "congestion_length_km": 0.9944761904761905}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 6, "congestion_length_km": 1.9812857142857143}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 7, "congestion_length_km": 8.39303448275862}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 8, "congestion_length_km": 35.50468965517241}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 9, "congestion_length_km": 56.595724137931036}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 10, "congestion_length_km": 53.5131724137931}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 11, "congestion_length_km": 41.16834482758621}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 12, "congestion_length_km": 38.508428571428574}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 13, "congestion_length_km": 40.145931034482764}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 14, "congestion_length_km": 31.483793103448274}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 15, "congestion_length_km": 45.6664}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 16, "congestion_length_km": 69.80833333333332}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 17, "congestion_length_km": 87.68344827586208}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 18, "congestion_length_km": 100.63593103448275}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 19, "congestion_length_km": 99.9988}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 20, "congestion_length_km": 63.77351724137931}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 21, "congestion_length_km": 28.938068965517243}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 22, "congestion_length_km": 15.270206896551725}
+{"corridor": "Non-Corridor", "month": "2026-06", "hour": 23, "congestion_length_km": 4.9318620689655175}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 0, "congestion_length_km": 1.4113333333333333}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 1, "congestion_length_km": 1.1484705882352941}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 2, "congestion_length_km": 0.474}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 3, "congestion_length_km": 0.32}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 6, "congestion_length_km": 0.478}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 7, "congestion_length_km": 0.5332727272727272}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 8, "congestion_length_km": 3.9227368421052633}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 9, "congestion_length_km": 7.7513000000000005}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 10, "congestion_length_km": 6.750583333333333}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 11, "congestion_length_km": 5.161793103448276}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 12, "congestion_length_km": 3.658962962962963}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 13, "congestion_length_km": 2.0297692307692308}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 14, "congestion_length_km": 1.6311851851851853}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 15, "congestion_length_km": 1.9156363636363638}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 16, "congestion_length_km": 5.176785714285715}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 17, "congestion_length_km": 5.166933333333334}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 18, "congestion_length_km": 6.21751724137931}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 19, "congestion_length_km": 6.0342666666666664}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 20, "congestion_length_km": 4.118838709677419}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 21, "congestion_length_km": 2.8460740740740738}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 22, "congestion_length_km": 2.7947096774193545}
+{"corridor": "ORR East 1", "month": "2026-05", "hour": 23, "congestion_length_km": 1.8291111111111111}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 0, "congestion_length_km": 1.7932173913043477}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 1, "congestion_length_km": 1.1408333333333334}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 2, "congestion_length_km": 1.367}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 3, "congestion_length_km": 0.338}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 4, "congestion_length_km": 0.736}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 5, "congestion_length_km": 0.314}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 7, "congestion_length_km": 0.5216923076923078}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 8, "congestion_length_km": 7.026571428571429}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 9, "congestion_length_km": 10.87090909090909}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 10, "congestion_length_km": 9.3436}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 11, "congestion_length_km": 7.208846153846154}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 12, "congestion_length_km": 4.520666666666667}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 13, "congestion_length_km": 2.9852857142857143}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 14, "congestion_length_km": 2.8805}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 15, "congestion_length_km": 3.2551428571428573}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 16, "congestion_length_km": 7.126785714285715}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 17, "congestion_length_km": 6.6947586206896545}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 18, "congestion_length_km": 6.026}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 19, "congestion_length_km": 6.619866666666667}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 20, "congestion_length_km": 4.551379310344828}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 21, "congestion_length_km": 2.9442857142857144}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 22, "congestion_length_km": 3.2829285714285716}
+{"corridor": "ORR East 1", "month": "2026-06", "hour": 23, "congestion_length_km": 1.7011818181818184}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 0, "congestion_length_km": 0.8603636363636363}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 1, "congestion_length_km": 0.843}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 7, "congestion_length_km": 0.334}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 8, "congestion_length_km": 0.805625}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 9, "congestion_length_km": 3.765}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 10, "congestion_length_km": 3.630315789473684}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 11, "congestion_length_km": 1.8516}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 12, "congestion_length_km": 1.457857142857143}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 13, "congestion_length_km": 1.4896666666666667}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 14, "congestion_length_km": 0.8505}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 15, "congestion_length_km": 0.903}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 16, "congestion_length_km": 1.9664000000000001}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 17, "congestion_length_km": 2.9461481481481484}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 18, "congestion_length_km": 2.4537391304347826}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 19, "congestion_length_km": 2.5473333333333334}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 20, "congestion_length_km": 1.9077777777777778}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 21, "congestion_length_km": 1.37032}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 22, "congestion_length_km": 0.9471666666666666}
+{"corridor": "ORR East 2", "month": "2026-05", "hour": 23, "congestion_length_km": 1.2441}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 0, "congestion_length_km": 0.5592}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 1, "congestion_length_km": 0.654}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 4, "congestion_length_km": 0.252}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 6, "congestion_length_km": 0.31460000000000005}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 7, "congestion_length_km": 0.47345454545454546}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 8, "congestion_length_km": 1.508842105263158}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 9, "congestion_length_km": 4.790181818181818}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 10, "congestion_length_km": 4.8729523809523805}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 11, "congestion_length_km": 3.1567}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 12, "congestion_length_km": 1.7554666666666667}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 13, "congestion_length_km": 1.4617142857142857}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 14, "congestion_length_km": 1.505}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 15, "congestion_length_km": 1.0782}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 16, "congestion_length_km": 3.035}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 17, "congestion_length_km": 4.226962962962963}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 18, "congestion_length_km": 2.72875}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 19, "congestion_length_km": 2.6999166666666663}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 20, "congestion_length_km": 2.1573076923076924}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 21, "congestion_length_km": 2.270518518518519}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 22, "congestion_length_km": 2.0105}
+{"corridor": "ORR East 2", "month": "2026-06", "hour": 23, "congestion_length_km": 1.8885}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 0, "congestion_length_km": 2.9715}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 1, "congestion_length_km": 1.0306666666666668}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 2, "congestion_length_km": 0.6452}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 3, "congestion_length_km": 0.7145}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 4, "congestion_length_km": 0.4375}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 5, "congestion_length_km": 0.42257142857142854}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 6, "congestion_length_km": 1.2698461538461538}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 7, "congestion_length_km": 2.0704615384615384}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 8, "congestion_length_km": 3.405913043478261}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 9, "congestion_length_km": 4.089}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 10, "congestion_length_km": 3.672230769230769}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 11, "congestion_length_km": 2.3468}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 12, "congestion_length_km": 2.934466666666667}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 13, "congestion_length_km": 2.7071612903225803}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 14, "congestion_length_km": 2.0912413793103446}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 15, "congestion_length_km": 2.9064285714285716}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 16, "congestion_length_km": 4.580903225806452}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 17, "congestion_length_km": 5.6162}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 18, "congestion_length_km": 6.61058064516129}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 19, "congestion_length_km": 6.322666666666667}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 20, "congestion_length_km": 4.748666666666667}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 21, "congestion_length_km": 2.8059285714285718}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 22, "congestion_length_km": 1.9868148148148148}
+{"corridor": "ORR North 1", "month": "2026-05", "hour": 23, "congestion_length_km": 2.1336}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 0, "congestion_length_km": 4.044740740740741}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 1, "congestion_length_km": 1.7045454545454546}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 2, "congestion_length_km": 1.2124615384615385}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 3, "congestion_length_km": 0.66025}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 4, "congestion_length_km": 0.5804615384615385}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 5, "congestion_length_km": 0.9601538461538461}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 6, "congestion_length_km": 0.9356}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 7, "congestion_length_km": 1.30175}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 8, "congestion_length_km": 4.167363636363636}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 9, "congestion_length_km": 8.17112}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 10, "congestion_length_km": 5.525448275862069}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 11, "congestion_length_km": 4.368518518518519}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 12, "congestion_length_km": 4.1814285714285715}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 13, "congestion_length_km": 3.0600689655172415}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 14, "congestion_length_km": 2.4165925925925924}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 15, "congestion_length_km": 2.3954}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 16, "congestion_length_km": 5.868214285714285}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 17, "congestion_length_km": 6.211724137931035}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 18, "congestion_length_km": 6.329034482758621}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 19, "congestion_length_km": 6.270551724137931}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 20, "congestion_length_km": 4.550344827586207}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 21, "congestion_length_km": 2.4326666666666665}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 22, "congestion_length_km": 2.13832}
+{"corridor": "ORR North 1", "month": "2026-06", "hour": 23, "congestion_length_km": 2.010076923076923}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 0, "congestion_length_km": 0.9336}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 1, "congestion_length_km": 0.746}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 2, "congestion_length_km": 2.982}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 3, "congestion_length_km": 0.59}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 4, "congestion_length_km": 0.706}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 6, "congestion_length_km": 0.7552000000000001}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 7, "congestion_length_km": 0.976}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 8, "congestion_length_km": 1.02225}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 9, "congestion_length_km": 1.5990666666666666}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 10, "congestion_length_km": 1.4032380952380952}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 11, "congestion_length_km": 1.729111111111111}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 12, "congestion_length_km": 2.986}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 13, "congestion_length_km": 2.190344827586207}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 14, "congestion_length_km": 2.4403703703703705}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 15, "congestion_length_km": 2.4809285714285716}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 16, "congestion_length_km": 2.384592592592593}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 17, "congestion_length_km": 2.2003076923076925}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 18, "congestion_length_km": 3.24351724137931}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 19, "congestion_length_km": 3.1244137931034484}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 20, "congestion_length_km": 1.9760714285714287}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 21, "congestion_length_km": 1.4045999999999998}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 22, "congestion_length_km": 1.5271666666666668}
+{"corridor": "ORR North 2", "month": "2026-05", "hour": 23, "congestion_length_km": 0.8818947368421053}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 0, "congestion_length_km": 0.907}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 1, "congestion_length_km": 1.0586666666666666}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 2, "congestion_length_km": 1.739}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 3, "congestion_length_km": 1.4033333333333333}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 4, "congestion_length_km": 0.469}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 6, "congestion_length_km": 1.2315}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 7, "congestion_length_km": 0.8493333333333334}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 8, "congestion_length_km": 1.45225}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 9, "congestion_length_km": 1.3691578947368421}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 10, "congestion_length_km": 1.7109166666666666}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 11, "congestion_length_km": 2.253037037037037}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 12, "congestion_length_km": 3.1452142857142857}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 13, "congestion_length_km": 2.6485185185185185}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 14, "congestion_length_km": 2.3666428571428573}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 15, "congestion_length_km": 2.45048275862069}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 16, "congestion_length_km": 2.4617241379310344}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 17, "congestion_length_km": 2.740142857142857}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 18, "congestion_length_km": 3.051862068965517}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 19, "congestion_length_km": 3.0680666666666667}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 20, "congestion_length_km": 2.2349655172413794}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 21, "congestion_length_km": 1.5358260869565217}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 22, "congestion_length_km": 1.500090909090909}
+{"corridor": "ORR North 2", "month": "2026-06", "hour": 23, "congestion_length_km": 1.3257777777777777}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 6, "congestion_length_km": 0.2673333333333333}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 7, "congestion_length_km": 0.28}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 8, "congestion_length_km": 0.466}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 9, "congestion_length_km": 1.1807826086956523}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 10, "congestion_length_km": 1.75976}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 11, "congestion_length_km": 1.8094000000000001}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 12, "congestion_length_km": 2.4013548387096777}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 13, "congestion_length_km": 1.9337857142857142}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 14, "congestion_length_km": 1.567925925925926}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 15, "congestion_length_km": 1.308}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 16, "congestion_length_km": 1.431448275862069}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 17, "congestion_length_km": 2.185032258064516}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 18, "congestion_length_km": 4.078516129032258}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 19, "congestion_length_km": 5.714}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 20, "congestion_length_km": 3.5425806451612902}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 21, "congestion_length_km": 1.551157894736842}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 22, "congestion_length_km": 0.5990909090909091}
+{"corridor": "ORR West 1", "month": "2026-05", "hour": 23, "congestion_length_km": 0.944}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 5, "congestion_length_km": 0.26}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 6, "congestion_length_km": 0.2966666666666667}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 7, "congestion_length_km": 0.62}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 8, "congestion_length_km": 0.6966153846153846}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 9, "congestion_length_km": 1.5165217391304346}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 10, "congestion_length_km": 2.168909090909091}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 11, "congestion_length_km": 1.721142857142857}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 12, "congestion_length_km": 1.847357142857143}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 13, "congestion_length_km": 1.5977931034482757}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 14, "congestion_length_km": 1.8484800000000001}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 15, "congestion_length_km": 1.714}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 16, "congestion_length_km": 2.911310344827586}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 17, "congestion_length_km": 3.3640689655172413}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 18, "congestion_length_km": 4.563931034482759}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 19, "congestion_length_km": 4.615466666666666}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 20, "congestion_length_km": 3.291931034482759}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 21, "congestion_length_km": 1.3747272727272728}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 22, "congestion_length_km": 0.6845714285714286}
+{"corridor": "ORR West 1", "month": "2026-06", "hour": 23, "congestion_length_km": 0.384}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 0, "congestion_length_km": 0.858}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.38257142857142856}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 8, "congestion_length_km": 1.760842105263158}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 9, "congestion_length_km": 4.361}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 10, "congestion_length_km": 4.26495652173913}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 11, "congestion_length_km": 2.9495}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 12, "congestion_length_km": 2.331}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 13, "congestion_length_km": 1.6023846153846155}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 14, "congestion_length_km": 1.5725}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 15, "congestion_length_km": 1.8880666666666666}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 16, "congestion_length_km": 3.087142857142857}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 17, "congestion_length_km": 5.134533333333334}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 18, "congestion_length_km": 5.0300714285714285}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 19, "congestion_length_km": 4.471225806451613}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 20, "congestion_length_km": 3.2225806451612904}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 21, "congestion_length_km": 1.5466923076923076}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 22, "congestion_length_km": 1.5394166666666667}
+{"corridor": "Old Airport Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.7675}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.32}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 2, "congestion_length_km": 0.59}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 3, "congestion_length_km": 0.28}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.252}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.6475}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 8, "congestion_length_km": 3.2698095238095237}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 9, "congestion_length_km": 7.126818181818182}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 10, "congestion_length_km": 6.380583333333333}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 11, "congestion_length_km": 3.558153846153846}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 12, "congestion_length_km": 2.6142857142857143}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 13, "congestion_length_km": 2.0451724137931033}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 14, "congestion_length_km": 1.6516428571428572}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 15, "congestion_length_km": 3.226827586206897}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 16, "congestion_length_km": 4.261866666666667}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 17, "congestion_length_km": 7.534571428571429}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 18, "congestion_length_km": 6.349310344827586}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 19, "congestion_length_km": 4.790533333333334}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 20, "congestion_length_km": 3.439862068965517}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 21, "congestion_length_km": 1.6979285714285712}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 22, "congestion_length_km": 1.263076923076923}
+{"corridor": "Old Airport Road", "month": "2026-06", "hour": 23, "congestion_length_km": 0.6026666666666667}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 0, "congestion_length_km": 0.9714285714285714}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 1, "congestion_length_km": 0.778}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 2, "congestion_length_km": 0.252}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 6, "congestion_length_km": 0.358}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.372}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 8, "congestion_length_km": 1.147}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 9, "congestion_length_km": 4.295714285714285}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 10, "congestion_length_km": 4.243}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 11, "congestion_length_km": 3.9401333333333333}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 12, "congestion_length_km": 3.6444137931034484}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 13, "congestion_length_km": 2.933133333333333}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 14, "congestion_length_km": 2.7898}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 15, "congestion_length_km": 3.674}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 16, "congestion_length_km": 5.738266666666666}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 17, "congestion_length_km": 7.612967741935484}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 18, "congestion_length_km": 10.605935483870967}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 19, "congestion_length_km": 10.85283870967742}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 20, "congestion_length_km": 6.929935483870968}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 21, "congestion_length_km": 3.1427586206896554}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 22, "congestion_length_km": 2.4345384615384615}
+{"corridor": "Old Madras Road", "month": "2026-05", "hour": 23, "congestion_length_km": 1.352695652173913}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 0, "congestion_length_km": 1.2326666666666668}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.726}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.358}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.6082857142857143}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 8, "congestion_length_km": 2.2592}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 9, "congestion_length_km": 6.142695652173913}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 10, "congestion_length_km": 6.677359999999999}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 11, "congestion_length_km": 4.960444444444445}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 12, "congestion_length_km": 4.412857142857143}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 13, "congestion_length_km": 4.662896551724137}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 14, "congestion_length_km": 4.22903448275862}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 15, "congestion_length_km": 5.754933333333334}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 16, "congestion_length_km": 8.353733333333334}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 17, "congestion_length_km": 11.071103448275862}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 18, "congestion_length_km": 12.515793103448276}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 19, "congestion_length_km": 9.633333333333335}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 20, "congestion_length_km": 6.524344827586207}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 21, "congestion_length_km": 2.9535862068965515}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 22, "congestion_length_km": 2.468}
+{"corridor": "Old Madras Road", "month": "2026-06", "hour": 23, "congestion_length_km": 1.3214000000000001}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 0, "congestion_length_km": 1.1103333333333332}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 1, "congestion_length_km": 0.819}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 4, "congestion_length_km": 2.664}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 5, "congestion_length_km": 1.0955294117647059}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 6, "congestion_length_km": 2.7845}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 7, "congestion_length_km": 3.3424666666666667}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 8, "congestion_length_km": 2.596814814814815}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 9, "congestion_length_km": 3.661185185185185}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 10, "congestion_length_km": 3.6576774193548385}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 11, "congestion_length_km": 3.7995483870967743}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 12, "congestion_length_km": 5.271612903225807}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 13, "congestion_length_km": 4.510258064516129}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 14, "congestion_length_km": 3.0198709677419355}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 15, "congestion_length_km": 3.139548387096774}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 16, "congestion_length_km": 3.948451612903226}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 17, "congestion_length_km": 4.727161290322581}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 18, "congestion_length_km": 5.862129032258064}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 19, "congestion_length_km": 6.366129032258065}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 20, "congestion_length_km": 3.7503225806451614}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 21, "congestion_length_km": 2.868785714285714}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 22, "congestion_length_km": 2.7676774193548384}
+{"corridor": "Tumkur Road", "month": "2026-05", "hour": 23, "congestion_length_km": 2.3864137931034484}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 0, "congestion_length_km": 0.8912}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.6393333333333334}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 2, "congestion_length_km": 0.776}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 4, "congestion_length_km": 0.629}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 5, "congestion_length_km": 0.31}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 6, "congestion_length_km": 0.968}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 7, "congestion_length_km": 1.066}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 8, "congestion_length_km": 1.4109166666666668}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 9, "congestion_length_km": 3.6306923076923074}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 10, "congestion_length_km": 4.467379310344828}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 11, "congestion_length_km": 4.5457241379310345}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 12, "congestion_length_km": 5.116857142857143}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 13, "congestion_length_km": 4.863862068965517}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 14, "congestion_length_km": 3.624}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 15, "congestion_length_km": 3.5478666666666667}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 16, "congestion_length_km": 3.882733333333333}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 17, "congestion_length_km": 4.974413793103448}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 18, "congestion_length_km": 5.652827586206897}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 19, "congestion_length_km": 4.719266666666666}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 20, "congestion_length_km": 3.4166428571428575}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 21, "congestion_length_km": 2.4465}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 22, "congestion_length_km": 2.8964827586206896}
+{"corridor": "Tumkur Road", "month": "2026-06", "hour": 23, "congestion_length_km": 2.2611111111111115}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 0, "congestion_length_km": 1.2448571428571429}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 1, "congestion_length_km": 0.54675}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 2, "congestion_length_km": 0.3193333333333333}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 3, "congestion_length_km": 0.382}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 4, "congestion_length_km": 0.27666666666666667}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 5, "congestion_length_km": 0.2966666666666667}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.28733333333333333}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 8, "congestion_length_km": 1.743157894736842}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 9, "congestion_length_km": 5.7574736842105265}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 10, "congestion_length_km": 4.725333333333333}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 11, "congestion_length_km": 3.2621739130434784}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 12, "congestion_length_km": 1.724551724137931}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 13, "congestion_length_km": 1.8771538461538462}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 14, "congestion_length_km": 1.4023636363636363}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 15, "congestion_length_km": 1.790888888888889}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 16, "congestion_length_km": 3.497533333333333}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 17, "congestion_length_km": 5.388666666666667}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 18, "congestion_length_km": 5.228827586206897}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 19, "congestion_length_km": 5.506645161290323}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 20, "congestion_length_km": 3.319655172413793}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 21, "congestion_length_km": 1.6454814814814815}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 22, "congestion_length_km": 1.2375999999999998}
+{"corridor": "Varthur Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.74}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 0, "congestion_length_km": 0.8983529411764706}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 1, "congestion_length_km": 0.6234285714285714}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 2, "congestion_length_km": 0.8766666666666666}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 4, "congestion_length_km": 0.3}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 5, "congestion_length_km": 0.274}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 7, "congestion_length_km": 0.9}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 8, "congestion_length_km": 3.5835454545454546}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 9, "congestion_length_km": 7.619545454545455}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 10, "congestion_length_km": 7.388761904761904}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 11, "congestion_length_km": 3.2595384615384613}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 12, "congestion_length_km": 2.3206666666666664}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 13, "congestion_length_km": 2.587448275862069}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 14, "congestion_length_km": 2.3178571428571426}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 15, "congestion_length_km": 3.1914000000000002}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 16, "congestion_length_km": 6.478933333333333}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 17, "congestion_length_km": 8.263793103448275}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 18, "congestion_length_km": 6.85648275862069}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 19, "congestion_length_km": 5.604066666666666}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 20, "congestion_length_km": 3.9311724137931034}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 21, "congestion_length_km": 2.3948888888888886}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 22, "congestion_length_km": 2.0296521739130435}
+{"corridor": "Varthur Road", "month": "2026-06", "hour": 23, "congestion_length_km": 1.054857142857143}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 7, "congestion_length_km": 0.378}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 8, "congestion_length_km": 0.295}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 9, "congestion_length_km": 1.083}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 10, "congestion_length_km": 0.6266666666666666}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 11, "congestion_length_km": 0.5756}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 12, "congestion_length_km": 0.91944}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 13, "congestion_length_km": 0.759888888888889}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 14, "congestion_length_km": 0.7682222222222221}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 15, "congestion_length_km": 0.7293846153846154}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 16, "congestion_length_km": 0.6638461538461539}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 17, "congestion_length_km": 0.8322105263157895}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 18, "congestion_length_km": 1.3885}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 19, "congestion_length_km": 2.42208}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 20, "congestion_length_km": 1.5137272727272728}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 21, "congestion_length_km": 0.8749473684210526}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 22, "congestion_length_km": 0.6756923076923077}
+{"corridor": "West of Chord Road", "month": "2026-05", "hour": 23, "congestion_length_km": 0.536}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 0, "congestion_length_km": 0.91}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 4, "congestion_length_km": 0.348}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 5, "congestion_length_km": 0.252}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 8, "congestion_length_km": 0.413}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 9, "congestion_length_km": 0.5236666666666666}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 10, "congestion_length_km": 1.270888888888889}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 11, "congestion_length_km": 0.901578947368421}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 12, "congestion_length_km": 1.009809523809524}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 13, "congestion_length_km": 0.7718571428571429}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 14, "congestion_length_km": 0.5955555555555555}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 15, "congestion_length_km": 0.9035}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 16, "congestion_length_km": 0.8618571428571429}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 17, "congestion_length_km": 1.236}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 18, "congestion_length_km": 1.315777777777778}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 19, "congestion_length_km": 1.4047857142857143}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 20, "congestion_length_km": 1.195684210526316}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 21, "congestion_length_km": 0.6270909090909091}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 22, "congestion_length_km": 0.5866666666666667}
+{"corridor": "West of Chord Road", "month": "2026-06", "hour": 23, "congestion_length_km": 0.27}
